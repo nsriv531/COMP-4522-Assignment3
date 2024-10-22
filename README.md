@@ -6,4 +6,4 @@ Pandas is used for data cleansing and the creation of data frames, with linear r
 
 This assignment was done collaborativley for COMP 4522-001 - Advanced Databases with Orestes Appel.
 
-Assignmented submitted by Nik Srivastava and Vik Bolgachenko.
+Assignment submitted by Nik Srivastava and Vik Bolgachenko.
